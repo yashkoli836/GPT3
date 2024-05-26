@@ -23,7 +23,7 @@ const navbar = () => {
           <img src={logo} alt='logo' />
         </div>
         <div className='gpt3__navbar-links_container'>
-           <Menu/>
+           <Menu />
         </div>
       </div>
       <div className='gpt3__navbar-sign'> 
